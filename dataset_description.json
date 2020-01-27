@@ -1,6 +1,6 @@
 {
     "Name": "rsfMRI_comrobidity-SmokingandSchizophrenia",
-    "License": "This data is made available under the Creative Commons BY-SA 4.0 International License.",
+    "License": "CC0",
     "Authors": [
         "Wei Liao",
         "Yun-Shuang Fan"
@@ -9,6 +9,6 @@
     "HowToAcknowledge": "",
     "Funding": "",
     "ReferencesAndLinks": [],
-    "DatasetDOI": "10.18112/openneuro.ds001461.v1.0.1",
+    "DatasetDOI": "10.18112/openneuro.ds001461.v1.0.3",
     "BIDSVersion": "1.0.0"
 }
